@@ -20,8 +20,6 @@ This plot visually compares the model's predictions against the true, actual val
 ### 2. Residuals Plot: Model Diagnostics
 An essential diagnostic tool! This plot of the model's errors (residuals) against predicted values helps to check for critical assumptions like homoscedasticity and detect hidden patterns, ensuring the model's reliability and unbiasedness.
 
-![Residuals Plot](residuals_plot.png)
-
 
 ### 3. Feature Importance/Coefficients
 Understanding which features most influence the target variable is crucial. This visualization displays the relative importance or coefficients of each feature, highlighting their impact on the prediction.
